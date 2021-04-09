@@ -1,0 +1,16 @@
+#Ney{
+    color: grey;
+    border-radius: 50%;
+}
+
+body{
+    margin-left: 30%;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #6a11cb 0%, #6625fc 100%);
+    color: white;
+}
+
+#skills {
+    color: honeydew;
+}
